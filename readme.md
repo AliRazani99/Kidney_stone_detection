@@ -8,19 +8,6 @@ A deep learning project for **detecting** and **localizing** kidney stones in ul
 
 ---
 
-## 📖 Table of Contents
-
-- [Overview](#overview)  
-- [Dataset](#dataset)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-  - [Image Classification](#image-classification)  
-  - [Object Detection](#object-detection)  
-- [Project Structure](#project-structure)  
-- [Evaluation Metrics](#evaluation-metrics)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [References](#references)  
 
 ---
 
